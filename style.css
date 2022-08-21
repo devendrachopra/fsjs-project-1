@@ -1,0 +1,156 @@
+
+.container{
+    background-color: #fff;
+}
+
+.navbar-container {
+    display: flex;
+}
+
+.navbar-container > div >img{
+    margin-left: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.navbar-container > div > .list {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.list-item {
+    margin-right: 70px;
+    font-size: 20px;
+    font-weight: 500; 
+    list-style: none;
+    cursor: pointer;    
+}
+
+.navbar-container > div > ul > li:first-child{
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+.button-group{
+    display: flex;
+    margin-top: 70px;
+}
+
+.button-group .search-icon{
+    margin-right: 20px;
+    margin-left: 150px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.button-group > div > .nav-button{
+    height: 30px;
+    width: 120px; 
+    background-color: #fff;
+    border-radius: 15px;
+    border: 0px, solid, #000;
+    cursor: pointer;
+}
+
+.hero-container {
+    display: flex
+}
+
+.square {
+    position: relative;
+    margin-top: 30%;
+    margin-left: 250px;
+}
+
+
+.hero-container > div >img{
+    position: relative;
+    margin-left: -130%;
+    margin-top: 22%;
+}
+
+.star {
+   
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 7%;
+
+}
+
+.star >img {
+    height: 50px;
+}
+
+.globe {
+    margin-top: 3%;
+}
+
+
+.hero-container-right{
+    text-align: center;
+    position: relative;
+    margin-left: -45%;
+    margin-top: 15%;
+}
+
+
+.hero-heading {
+    font-size: 75px;
+    font-weight: 1000;
+    margin-bottom: -45px;
+}
+
+.hero-description {
+    font-size: 20px;
+    padding: 80px;
+    color: #758283;
+}
+
+.button-email {
+    height: 30px;
+    width: 150px; 
+    background-color: #fff;
+    color: #515151;
+    border-radius: 15px;
+    border: 0px, solid, #000;
+    font-size: 18px;
+}
+
+.button-join {
+    height: 30px;
+    width: 120px;
+    background-color: #000;
+    color: #fff; 
+    border-radius: 15px;
+    border: 0px, solid, #000;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+
+.contact-heading {
+    margin-top: 15%;
+    color: #515151;
+    font-size: 25px;
+}
+
+.icons{
+    margin-top: -10px;
+}
+
+.icons> span{
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+
+.second-star{
+    position: absolute;
+    margin-left: -35%;
+    margin-top: 18%;
+}
+
+.second-star >img {
+    height: 50px;
+}
