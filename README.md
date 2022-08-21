@@ -12,4 +12,8 @@ Learned that z-index if set to negative value then on hover it cannot be changed
 ## Development server
 Run with live server in vs code extension 
 
+## Deployed Link
+[FSJS-PROJECT-1](https://fsjs-dchopra-project-1.netlify.app/)
+
 ![alt text](./1.png)
+
